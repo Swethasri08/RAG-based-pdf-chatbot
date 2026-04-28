@@ -68,6 +68,20 @@ The application will open in your web browser at `http://localhost:8501`
 3. **Start Chatting**: Type your questions about the document content in the chat interface
 4. **Get Intelligent Responses**: Receive context-aware answers based on your uploaded documents
 
+## 📸 Screenshots
+
+### PDF Upload Interface
+![PDF Loading](pdf-loading.png)
+*Upload your PDF documents through the intuitive sidebar interface*
+
+### Answer Generation
+![Answer Loading](answer-loading.png)
+*Watch as the AI processes your question and generates intelligent responses*
+
+### Chat Interface
+![Answer](answer.png)
+*Get context-aware answers based on your uploaded documents*
+
 ## 🏗️ Architecture
 
 ```
